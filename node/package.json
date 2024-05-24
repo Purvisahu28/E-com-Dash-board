@@ -1,0 +1,31 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Purvisahu28/NODE-JS.git)"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "basics"
+  ],
+  "author": "purvi sahu",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
